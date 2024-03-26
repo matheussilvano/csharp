@@ -1,0 +1,12 @@
+// caractere
+Console.WriteLine('b');
+
+// int
+Console.WriteLine(123);
+
+// floats
+Console.WriteLine(0.25F);
+
+// booleans
+Console.WriteLine(true); 
+Console.WriteLine(false);
